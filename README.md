@@ -1,7 +1,7 @@
 # JavaScript-Assessment-1
 =========================
 
-Complete each of the challenges in the following order
+Fork and clone this repo then complete each of the challenges in the following order
 
 + Strings
 + Numbers
