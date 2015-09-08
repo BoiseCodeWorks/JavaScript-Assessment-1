@@ -58,6 +58,31 @@ var crayola1990 = [
 	'Antique Brass'
 ];
 
+
+var crayola1990 = [
+	'Scarlet',
+	'Sunset Orange',
+	'Antique Brass'
+];
+var crayola1990 = [
+	'Scarlet',
+	'Sunset Orange',
+	'Antique Brass'
+];
+// join turns array values into string values 
+
+var crayola = crayola1990.join(",");
+console.log(crayola);
+var regEx = /\s/g;
+for (var i = 0; i < crayola.length; i++) {
+
+    var newStr = crayola.replace(regEx, "-")
+
+}
+
+// then run this to convert my crayola string back into an array
+var crayolaSplit = newStr.split(",");
+console.log(crayolaSplit);
 //create a loop that will iterate over each item in the array and then use the String methods to modify the value at the current position in the array
 
 /***** HINTS *******
