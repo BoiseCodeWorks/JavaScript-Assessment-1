@@ -15,27 +15,23 @@ var matt = {
 	email: 'matt.overall@boisecodeworks.com',
 	title: 'founder'
 };
-var chris = {
-	name: 'Chris Hoyd',
-	email: 'chris.hoyd@boisecodeworks.com',
-	title: 'founder'
-};
+
 var tony = {
-	name: 'Tony Carolla',
-	email: 'tony.carolla@gmail.com',
-	title: 'mentor'
+	name: 'Mark Ohnsman',
+	email: 'mark@boisecodeworks.com',
+	title: 'instructor'
 };
 var andrew = {
-	name: 'Andrew Hansen',
-	email: 'andrew.hansen@gmail.com',
-	title: 'mentor'
+	name: 'Darryl Kilzer',
+	email: 'darryl@boisecodeworks.com',
+	title: 'instructor'
 };
-var stefan = {
-	name: 'Stefan Nuxoll',
-	email: 'stefan.nuxoll@gmail.com',
-	title: 'mentor'
+var tom = {
+	name: 'Tom Day',
+	email: 'tom@boisecodeworks.com',
+	title: 'instructor'
 };
 
 
-//3. Woops after adding all of those people to the same contacts list you realized you need a list just the mentors. Create a new variable named mentors populate it using contacts array. 
+//3. Woops after adding all of those people to the same contacts list you realized you need a list just the instructors. Create a new variable named instructors populate it using contacts array. 
 
